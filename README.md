@@ -1,6 +1,6 @@
 # Space Invaders
 
-<img src="https://github.com/Tirthraj-Raval/Space-Invaders/assets/123300261/3f18b751-c8af-44ee-ad5b-0053cef27b33" alt="Space-Invaders" style="width: 100%; max-width: 600px; height: auto;" />
+<img src="https://github.com/Tirthraj-Raval/Space-Invaders/assets/123300261/3f18b751-c8af-44ee-ad5b-0053cef27b33" alt="Space-Invaders" style="width: 400px; max-width: 400px; height: 400px;" />
 
 Welcome to **Space Invaders**, a fan-made game inspired by the classic Japanese shooting game released by Taito. In this game, you control a spaceship and defend the Earth from waves of descending aliens. This project was created for entertainment and to learn Python and Pygame.
 
@@ -59,7 +59,7 @@ This is a fan-made game inspired by the classic Space Invaders game developed by
 
 Take a look at how the game looks like
 
-<img src="https://github.com/Tirthraj-Raval/Space-Invaders/assets/123300261/fd05e98b-9d43-47d9-8a58-04e8dcc2bfac" alt="Game-Image" style="width: 100%; max-width: 600px; height: auto;" />
+<img src="https://github.com/Tirthraj-Raval/Space-Invaders/assets/123300261/fd05e98b-9d43-47d9-8a58-04e8dcc2bfac" alt="Game-Image" style="width: 400px; max-width: 400px; height: 400px;" />
 
 
 ## How to play
